@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "msm beypore zone",
-    "currentPage": "index.html",
+    "currentPage": "MSM.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -468,7 +468,7 @@
           },
           "title": "SORRY THIS PAGE IS UNDER CONSTRUCTION.",
           "text": "&nbsp;GO BACK TO HOME PAGE,",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
           "_tags": [
             "Theme"
           ],
