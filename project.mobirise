@@ -629,7 +629,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>MSM has the following objectives:\r</blockquote><blockquote>\r</blockquote><blockquote>-&gt;To represent the message of Islam in its true sense to students who are at an impressionable age interested to know and understand.\r</blockquote><blockquote>-&gt;To clear up misconceptions about among non-Muslim students in other communities.\r</blockquote><blockquote>-&gt;To engage in activities contributing to student welfare.</blockquote>",
+          "text": "<blockquote>MSM has the following objectives:\n</blockquote><blockquote>\n</blockquote><blockquote>-&gt;To represent the message of Islam in its true sense to students who are at an impressionable age interested to know and understand.\n</blockquote><blockquote>-&gt;To clear up misconceptions about among non-Muslim students in other communities.\n</blockquote><blockquote>-&gt;To engage in activities contributing to student welfare.</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -881,11 +881,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "6",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>The Mujahid Students' Movement (MSM) was established in 1971 as the students’ wing of Kerala Nadvattul Mujhudin (KNM). MSM has been at the forefront for maintaining peace and solidarity in the campus and for its role as a leader for directing the aimless modern young generation to live a virtuous life.\r</blockquote><blockquote>\r</blockquote><blockquote>As the first Student Islamic Da'awa Organisation setup in Kerala, MSM is crossing its four decades of proud service. It currently represents thousands of students in various campuses, and holds events all year long that promote its ideas of peace, brotherhood and the Islamic message.\r</blockquote><blockquote>\r</blockquote><blockquote>Being a close-knit and friendly community MSM serves to assist students of various fields and endeavours to promote understanding between Muslims and people of other faiths in the campuses. \r</blockquote><blockquote>\r</blockquote><blockquote>MSM has been able to organise activities to promote skills and leadership in campuses and at regional levels upholding the principles of education, thought and dedication for the past 4 decades. Today, MSM has nearly thousand branch committees at the local level and more than 350 campus units in medical, engineering, paramedical, Arts &amp; Science &amp; Arabic colleges.</blockquote>",
+          "text": "<blockquote>The Mujahid Students' Movement (MSM) was established in 1971 as the students’ wing of Kerala Nadvattul Mujhudin (KNM). MSM has been at the forefront for maintaining peace and solidarity in the campus and for its role as a leader for directing the aimless modern young generation to live a virtuous life.\n</blockquote><blockquote>\n</blockquote><blockquote>As the first Student Islamic Da'awa Organisation setup in Kerala, MSM is crossing its four decades of proud service. It currently represents thousands of students in various campuses, and holds events all year long that promote its ideas of peace, brotherhood and the Islamic message.\n</blockquote><blockquote>\n</blockquote><blockquote>Being a close-knit and friendly community MSM serves to assist students of various fields and endeavours to promote understanding between Muslims and people of other faiths in the campuses. \n</blockquote><blockquote>\n</blockquote><blockquote>MSM has been able to organise activities to promote skills and leadership in campuses and at regional levels upholding the principles of education, thought and dedication for the past 4 decades. Today, MSM has nearly thousand branch committees at the local level and more than 350 campus units in medical, engineering, paramedical, Arts &amp; Science &amp; Arabic colleges.</blockquote>",
           "_tags": [
             "Theme"
           ],
