@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "msm beypore zone",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -151,7 +151,7 @@
           },
           "title": "WELCOME TO MSM",
           "text": "<b>MSM Is a close-knit and friendly community which serves to assist students of various fields and endeavours to promote understanding between Muslims and people of other faiths in their campus.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/VolunteerRegistration/formperma/_ypNWi6IQ7izvob7yFUU-Bzc2pJr674ZU0kB46D6M0k\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER REGISTRATION</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"register.html\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER REGISTRATION</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1084,9 +1084,9 @@
         }
       ]
     },
-    "page6.html": {
+    "thankyou.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "THANK YOU!!!!",
         "title": "thank you",
         "order": 1
       },
