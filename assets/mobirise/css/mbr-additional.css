@@ -680,6 +680,10 @@ h6,
 #header3-f .mbr-section-subtitle {
   text-align: center;
 }
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -740,10 +744,6 @@ h6,
 #ext_menu-9 .link[aria-expanded="true"],
 #ext_menu-9 .dropdown-item[aria-expanded="true"] {
   color: #e25041!important;
-}
-#header3-l .mbr-section-title,
-#header3-l .mbr-section-subtitle {
-  text-align: center;
 }
 #ext_menu-q .hide-buttons .nav-btn {
   display: none !important;
