@@ -58,7 +58,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -187,12 +187,29 @@
           "subtitle": "",
           "testimonial": [
             {
-              "authorName": "FAISAL MAVATHI",
+              "authorName": "JANEESH <span style=\"font-weight: normal;\">OLAVANNA</span>",
+              "authorBio": "User",
+              "text": "<b>PRESIDENT</b>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/janeesh-159x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "AFEEF <span style=\"font-weight: normal;\">RAHMAN BAZAR</span>",
               "authorBio": "User",
               "text": "<b>SECRETARY</b>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/faisal-160x89.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/afeef-3-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -204,26 +221,9 @@
               }
             },
             {
-              "authorName": "RIHAB NALLALAM",
+              "authorName": "SALAHUDHEEN <span style=\"font-weight: normal;\">MATHOTTAM</span>",
               "authorBio": "User",
-              "text": "PRESIDENT",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/rihabka-160x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "SALAHUDHEEN MATHOTTAM",
-              "authorBio": "User",
-              "text": "TREASURER",
+              "text": "<b>TREASURER</b>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/salah-160x160.jpg",
@@ -324,7 +324,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 MSM BEYPORE ZONE",
+          "text": "Copyright (c) 2019 MSM BEYPORE ZONE<br>Designed and developed by <b>talkywindow Inc.</b>",
           "_tags": [
             "Theme"
           ],
@@ -355,7 +355,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -439,7 +439,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 MSM BEYPORE ZONE",
+          "text": "Copyright (c) 2019 MSM BEYPORE ZONE<br>Designed and developed by <b>talkywindow Inc.</b>",
           "_tags": [
             "Theme"
           ],
@@ -500,7 +500,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -597,7 +597,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 MSM BEYPORE ZONE",
+          "text": "Copyright (c) 2019 MSM BEYPORE ZONE<br>Designed and developed by <b>talkywindow Inc.</b>",
           "_tags": [
             "Theme"
           ],
@@ -661,7 +661,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -745,7 +745,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 MSM BEYPORE ZONE",
+          "text": "Copyright (c) 2019 MSM BEYPORE ZONE<br>Designed and developed by <b>talkywindow Inc.</b>",
           "_tags": [
             "Theme"
           ],
@@ -809,7 +809,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -906,7 +906,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 MSM BEYPORE ZONE",
+          "text": "Copyright (c) 2019 MSM BEYPORE ZONE<br>Designed and developed by <b>talkywindow Inc.</b>",
           "_tags": [
             "Theme"
           ],
@@ -957,7 +957,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1041,7 +1041,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 MSM BEYPORE ZONE",
+          "text": "Copyright (c) 2019 MSM BEYPORE ZONE<br>Designed and developed by <b>talkywindow Inc.</b>",
           "_tags": [
             "Theme"
           ],
@@ -1106,7 +1106,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WHO WE ARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about.html\" aria-expanded=\"false\">ABOUT MSM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mandv.html\" aria-expanded=\"false\">MISSION AND VISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\" aria-expanded=\"false\">HISTORY OF MSM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">EVENTS AND CAMPIGNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MSM.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"MSM.html\">DOWNLOAD THE APP</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1190,7 +1190,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 MSM BEYPORE ZONE",
+          "text": "Copyright (c) 2019 MSM BEYPORE ZONE<br>Designed and developed by <b>talkywindow Inc.</b>",
           "_tags": [
             "Theme"
           ],
