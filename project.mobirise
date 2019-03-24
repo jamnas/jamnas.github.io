@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "msm beypore zone",
-    "currentPage": "about.html",
+    "currentPage": "thankyou.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -29,7 +29,7 @@
     "versionFirst": "4.8.4",
     "siteFonts": [],
     "uniqCompNum": 32,
-    "versionPublish": "4.8.4",
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -902,8 +902,8 @@
         },
         {
           "_params": {
-            "paddingTop": "6",
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "<blockquote>The Mujahid Students' Movement (MSM) was established in 1971 as the students’ wing of Kerala Nadvattul Mujhudin (KNM). MSM has been at the forefront for maintaining peace and solidarity in the campus and for its role as a leader for directing the aimless modern young generation to live a virtuous life.\n</blockquote><blockquote>\n</blockquote><blockquote>As the first Student Islamic Da'awa Organisation setup in Kerala, MSM is crossing its four decades of proud service. It currently represents thousands of students in various campuses, and holds events all year long that promote its ideas of peace, brotherhood and the Islamic message.\n</blockquote><blockquote>\n</blockquote><blockquote>Being a close-knit and friendly community MSM serves to assist students of various fields and endeavours to promote understanding between Muslims and people of other faiths in the campuses. \n</blockquote><blockquote>\n</blockquote><blockquote>MSM has been able to organise activities to promote skills and leadership in campuses and at regional levels upholding the principles of education, thought and dedication for the past 4 decades. Today, MSM has nearly thousand branch committees at the local level and more than 350 campus units in medical, engineering, paramedical, Arts &amp; Science &amp; Arabic colleges.</blockquote>",
@@ -1078,7 +1078,9 @@
           "_anchor": "header1-s",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "25px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         }
@@ -1230,7 +1232,7 @@
           },
           "title": "Thank you !",
           "text": "<span style=\"font-style: normal;\"><b>You have successfully registered</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zoho.com/infotalkywindow/form/VolunteerRegistration\" data-toolbar=\"-mbrBtnMove\">ADD ANOTHER VOLUNTEER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://forms.zohopublic.com/infotalkywindow/form/VolunteerRegistration/formperma/_ypNWi6IQ7izvob7yFUU-Bzc2pJr674ZU0kB46D6M0k\" data-toolbar=\"-mbrBtnMove\">ADD ANOTHER VOLUNTEER</a>",
           "_tags": [
             "Theme"
           ],
